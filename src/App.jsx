@@ -22,9 +22,9 @@ const rock = [
 const alt = [
   {title: "Gorillaz", description: "British virtual band created in 1998 by musician Damon Albarn and artist Jamie Hewlett. The band primarily consists of four animated members: 2-D, Murdoc Niccals, Noodle, and Russel Hobbs.", link: "https://en.wikipedia.org/wiki/Gorillaz"},
   {title: "Twenty One Pilots", description: "American musical duo from Columbus, Ohio. The band was formed in 2009 by lead vocalist Tyler Joseph along with Nick Thomas and Chris Salih, who left in 2011. The current line-up is Joseph and drummer Josh Dun.", link: "https://en.wikipedia.org/wiki/Twenty_One_Pilots"},
-  {title: "People In The Box", description: "Japanese alternative rock band formed in 2002. The band consist of Hirofumi Hatano (Vocals, Guitar, Keyboard), Kenta Fukui (Bass), and Daigo Yamaguchi (Drums). The band has two past members", link: "https://en.wikipedia.org/wiki/People_In_The_Box"},
+  {title: "People In The Box", description: "Japanese alternative rock band formed in 2002. The band consist of Hirofumi Hatano (Vocals, Guitar, Keyboard), Kenta Fukui (Bass), and Daigo Yamaguchi (Drums). The band has two past members", link: "https://ja.wikipedia.org/wiki/People_In_The_Box"},
   {title: "Coldplay", description: "British rock band formed in London in 1996. The band's lineup consists of lead vocalist and pianist Chris Martin, lead guitarist Jonny Buckland, bassist Guy Berryman, and drummer Will Champion.", link: "https://en.wikipedia.org/wiki/Coldplay"},
-  {title:"Kana-Boon", description: "Japanese rock band formed in 2008. The current members are Maguro Taniguchi (Vocals, Guitar) and Masami Endō (Bass, Chorus) and the band has had several past members.", link: "https://en.wikipedia.org/wiki/Kana-Boon"}
+  {title:"KANA-BOON", description: "Japanese rock band formed in 2008. The current members are Maguro Taniguchi (Vocals, Guitar) and Masami Endō (Bass, Chorus) and the band has had several past members.", link: "https://en.wikipedia.org/wiki/Kana-Boon"}
 ]
 const pop = [
   {title: "Wednesday Campanella", description: "Japanese pop band formed in 2012. The band consists of Utaha (Vocals), Kenmochi Hidefumi (Music, Lyrics), and Dir.F (Director). Former lead vocalist KOM_I left in 2021", link: "https://en.wikipedia.org/wiki/Wednesday_Campanella"},
@@ -40,7 +40,7 @@ const rap = [
   {title:"Tyler, The Creator", description: "American rapper, singer, songwriter, record producer, and music video director. Released his first album in 2009. He was the co-founder of Odd Future (2007-2015).", link: "https://en.wikipedia.org/wiki/Tyler,_The_Creator"},
   {title:"Kim Namjoon", description: "South Korean rapper, songwriter, and record producer. Released his first album in 2015. He is the leader of the BTS.", link: "https://en.wikipedia.org/wiki/RM_(rapper)"},
   {title:"Suga", description: "South Korean rapper, songwriter, and record producer. Released his first album in 2016. He is a member of the BTS.", link: "https://en.wikipedia.org/wiki/Suga_(rapper)"},
-  {title:"Lotus Juice", description: "Japanese rapper, songwriter, and record producer. He made his musical debut in 2006 and has created videogame and anime soundtracks.", link: "https://en.wikipedia.org/wiki/Lotus_Juice"}
+  {title:"Lotus Juice", description: "Japanese rapper, songwriter, and record producer. He made his musical debut in 2006 and has created videogame and anime soundtracks.", link: "https://jp.wikipedia.org/wiki/Lotus_Juice"}
 ]
 
 const rnb = [
@@ -49,7 +49,7 @@ const rnb = [
   {title:"H.E.R", description: "American singer and songwriter. She signed to RCA Records and released her debut EP, H.E.R. Volume 1, in 2016.", link: "https://en.wikipedia.org/wiki/H.E.R._(singer)"},
   {title:"Daniel Caesar", description: "Canadian singer and songwriter. Released his debut EP in 2014.", link: "https://en.wikipedia.org/wiki/Daniel_Caesar"},
   {title:"DEAN", description: "South Korean alternative R&B singer-songwriter and record producer. He released his debut single \"I'm not Sorry\" in 2015.", link: "https://en.wikipedia.org/wiki/Dean_(South_Korean_singer)"},
-  {title:"Joji", description: "Japanese American singer, songwriter, rapper, record producer, and former Internet personality and comedian. He made an unoffical release in 2015 and his debut album in 2018. He also released 2 comedic albums under the alias Pink Guy in 2014 and 2017.", link: "https://en.wikipedia.org/wiki/Joji_(musician)"}
+  {title:"Joji", description: "Japanese-Australian singer, songwriter, rapper, record producer, and former Internet personality and comedian. He made an unoffical release in 2015 and his debut album in 2018. He also released 2 comedic albums under the alias Pink Guy in 2014 and 2017.", link: "https://en.wikipedia.org/wiki/Joji_(musician)"}
   ]
 
 function App() {
