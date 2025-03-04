@@ -1,0 +1,69 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.app-name {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card {
+  background-color: lime;
+  color: #000;
+  border-radius: 0.25em;
+  box-shadow: 0 0 1em rgba(0, 0, 0, 0.1);
+  padding: 2em;
+  margin: 2em 0;
+}
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1em;
+}
+
+#metal{
+  background-color: purple;
+}
+#rock{
+  background-color: red;
+}
+#alt{
+  background-color: orange;
+}
+#pop{
+  background-color: pink;
+}
+#rnb{
+  background-color: lavender;
+}
+#rap{
+  background-color: lime;
+}
+.card h2 {
+  margin: 0;
+}
+
+
+.button {
+  background-color: darkblue;
+  color: white;
+  padding: 0.5em 1em;
+  border-radius: 0.25em;
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: lightblue;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
